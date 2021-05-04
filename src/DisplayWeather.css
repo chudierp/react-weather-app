@@ -1,0 +1,18 @@
+.DisplayWeather {
+    margin-bottom: 1em;
+    font-variant-numeric: oldstyle-nums;
+    
+}
+
+.DisplayWeather .Temp {
+    margin: 0;
+    font-size: 3em;
+}
+
+.DisplayWeather .Desc {
+    margin: 0;
+}
+
+.DisplayWeather .Errormsg {
+    color: red;
+}

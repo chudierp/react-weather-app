@@ -1,0 +1,19 @@
+.Weather {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Weather input {
+    font-size: 2em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0.2em;
+}
+
+.Weather button {
+    font-size: 2em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0%;
+}
